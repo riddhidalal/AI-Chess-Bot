@@ -7,8 +7,7 @@ The Chess AI Bot is a chess-playing program that uses artificial intelligence to
 
 ## Features
 
-- **Reinforcement learning**: The bot uses reinforcement learning and data from previous games to learn and improve its games .
--                             So now you can improve your game while improving the bots game as well!!!
+- **Reinforcement learning**: The bot uses reinforcement learning and data from previous games to learn and improve its games . So now you can improve your game while improving the bots game as well!!!
 - **Stockfish** : Uses Stockfish engine as well , you can ask help from stockfish in order to play the next move!
 - **Make an AI move** : You can make an AI move if you cannot think what to play next!
 - **Start a New Game**: Launch the application and start a new game by selecting "New Game" from the menu.
@@ -21,7 +20,7 @@ The Chess AI Bot is a chess-playing program that uses artificial intelligence to
 1. **Clone the Repository**: Begin by cloning this repository to your local machine.
 
    ```
-   git clone https://github.com/riddhidalal/ai-chess-bot.git
+   git clone https://github.com/riddhidalal/AI-Chess-Bot.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip.
@@ -34,16 +33,11 @@ The Chess AI Bot is a chess-playing program that uses artificial intelligence to
 3. **Run the Application**: Run the Chess AI Bot application.
 
    ```
-   python ai_chess_bot.py
+   python AI_Chess_Bot.py
    ```
 
 ## Contributing
-
-We welcome contributions from the open-source community. If you would like to contribute to the Chess AI Bot project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Help me add more features by contributing to this open-source project ! 
 
 ## Contact
 
