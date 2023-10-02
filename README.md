@@ -3,7 +3,8 @@
 ## Overview
 Let's create a Chess AI today! What is a chess AI? <br>
 Ofcourse , chess lovers already know!
-The Chess AI Bot is a chess-playing program that uses artificial intelligence to play chess against human opponents or other chess engines.
+The Chess AI Bot is a chess-playing program that uses artificial intelligence to play chess against human opponents or other chess engines.<br>
+You can play this game under development mode on [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 
 ## Features
 
